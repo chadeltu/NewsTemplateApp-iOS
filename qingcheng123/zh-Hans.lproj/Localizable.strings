@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  qingcheng123
+
+  Created by Qidalatu on 14/10/24.
+  Copyright (c) 2014年 Golden Totem. All rights reserved.
+*/
+"LOC_APP_NAME" = "青城123";
+"LOC_NOT_LOGGEDIN" = "未登录";
+"LOC_TABLE_REFRESH_SLIDE_UPWARDS" = "上拉加载更多数据";
+"LOC_TABLE_REFRESH_RELEASE" = "松开加载更多数据";
+"LOC_TABLE_REFRESH_LOADING" = "正在加载...";
+"LOC_TABLE_REFRESH_SLIDE_DOWN" = "下拉加载最新数据";
+"LOC_TITLE_LOGON" = "用户登录";
